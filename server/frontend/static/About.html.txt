@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us - Cars Dealership</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>About Cars Dealership</h1>
+
+    <p>
+        Cars Dealership is a leading national car retailer in the United States,
+        offering high-quality vehicles and excellent customer service.
+        Our mission is to provide reliable and affordable vehicles
+        while ensuring customer satisfaction.
+    </p>
+
+    <h2>Our Team</h2>
+
+    <div>
+        <img src="https://via.placeholder.com/150" alt="John Smith">
+        <h3>John Smith</h3>
+        <p><strong>Role:</strong> Chief Executive Officer</p>
+        <p>John has over 15 years of experience in the automotive industry
+           and leads the company with innovation and excellence.</p>
+        <p>Email: john.smith@carsdealership.com</p>
+    </div>
+
+    <div>
+        <img src="https://via.placeholder.com/150" alt="Emily Johnson">
+        <h3>Emily Johnson</h3>
+        <p><strong>Role:</strong> Sales Manager</p>
+        <p>Emily manages nationwide dealership operations and ensures
+           outstanding customer experience.</p>
+        <p>Email: emily.johnson@carsdealership.com</p>
+    </div>
+
+    <div>
+        <img src="https://via.placeholder.com/150" alt="Michael Brown">
+        <h3>Michael Brown</h3>
+        <p><strong>Role:</strong> Technical Lead</p>
+        <p>Michael oversees the digital transformation and platform
+           development of the dealership system.</p>
+        <p>Email: michael.brown@carsdealership.com</p>
+    </div>
+
+</body>
+</html>
